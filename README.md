@@ -2,4 +2,4 @@
 
 A Youtube Viewer Bot made with python
 
-download = <a href="YoutubeViewBot/YoutubeViewBot.zip">Here<\a>
+download = <a href="YoutubeViewBot.zip">Here
